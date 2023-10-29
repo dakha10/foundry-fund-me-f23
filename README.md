@@ -8,7 +8,7 @@
 
 This is a crowd sourcing app!
 
-# Getting Started
+# Getting started
 
 ## Requirements
 
