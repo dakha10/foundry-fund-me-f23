@@ -2,7 +2,7 @@
 2. Integration tests ✅
    1. PIT STOP! How to make running these scripts esier?? ✅
 3. Programatic verification ✅
-4. Push to GitHub
+4. Push to GitHub ✅
 
 # About
 
